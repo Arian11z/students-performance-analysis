@@ -6,19 +6,13 @@ A comprehensive statistical analysis of 1,000 students' academic performance acr
 
 ## 📁 Project Structure
 
-students-performance-analysis/
-
-├── data/
-
-│   └── StudentsPerformance.csv
-
-├── notebooks/
-
-│   └── analysis.ipynb
-
-├── requirements.txt
-
-└── README.md
+    students-performance-analysis/
+    ├── data/
+    │   └── StudentsPerformance.csv
+    ├── notebooks/
+    │   └── analysis.ipynb
+    ├── requirements.txt
+    └── README.md
 
 ## 🔍 Analysis Sections
 
